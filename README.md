@@ -19,8 +19,7 @@
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/br/index.html)
 [![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
-[![](https://img.shields.io/badge/NVIDIA-RTX3060-TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)https://www.nvidia.com/pt-br/geforce/graphics-cards/30-series/rtx-3060-3060ti/)
-
+[![](https://img.shields.io/badge/NVIDIA-RTX3060-TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]https://www.nvidia.com/pt-br/geforce/)
 
 
 ### Do you want to connect with me? ###
