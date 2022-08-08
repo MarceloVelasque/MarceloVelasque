@@ -6,6 +6,8 @@
 
 :mortar_board:graduated in technologist in management and entrepreneurship
 
+:mortar_board: studying information technology
+
 :computer: I'm Back-End Developer!
 my goal is to specialize in cyber security 
 
