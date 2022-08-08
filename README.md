@@ -2,7 +2,7 @@
 
  :shipit:## I'm Marcelo!
  
- #I LOVE :coffee:
+ #I :heart::coffee:
 
 :mortar_board:graduated in technologist in management and entrepreneurship
 
