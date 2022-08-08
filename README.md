@@ -1,6 +1,6 @@
 :alien: HELLO WORLD Welcome!
 
- :shipit: I'm Marcelo!
+:shipit: I'm Marcelo!
  
  I :heart:COFFEE:coffee: and GAMES :video_game:
 
