@@ -1,6 +1,3 @@
-https://media.giphy.com/media/3ogwFLbULAobloz0yY/giphy.gif
-
-
 :alien: HELLO WORLD Welcome!
 
  :shipit: I'm Marcelo!
