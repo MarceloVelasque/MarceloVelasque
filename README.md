@@ -3,6 +3,7 @@
  ## I'm Marcelo!
 
 :mortar_board:graduated in technologist in management and entrepreneurship
+
 :computer: I'm Back-End Developer!
 my goal is to specialize in cyber security 
 
