@@ -1,4 +1,4 @@
-# Welcome!
+:coffee:# Welcome!
 
  :shipit:## I'm Marcelo!
 
