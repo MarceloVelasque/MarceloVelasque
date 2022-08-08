@@ -1,3 +1,6 @@
+![favorito](https://user-images.githubusercontent.com/109104085/183504845-adc13395-c61a-46e2-8db0-5197cc28002d.gif)![COMPUTER](https://user-images.githubusercontent.com/109104085/183505008-47608ebe-f7d7-4cde-976b-f17c3384cbb3.gif)
+
+
 :alien: HELLO WORLD Welcome!
 
 :shipit: I'm Marcelo!
