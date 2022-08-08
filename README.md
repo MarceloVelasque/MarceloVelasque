@@ -1,8 +1,8 @@
 :alien: HELLO WORLD Welcome!
 
- :shipit:## I'm Marcelo!
+ :shipit: I'm Marcelo!
  
- I :heart:COFFEE:coffee:
+ I :heart:COFFEE:coffee: and GAMES :video_game:
 
 :mortar_board:graduated in technologist in management and entrepreneurship
 
