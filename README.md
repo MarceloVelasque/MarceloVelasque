@@ -1,4 +1,4 @@
-  [![favorito](https://user-images.githubusercontent.com/109104085/183504845-adc13395-c61a-46e2-8db0-5197cc28002d.gif)
+  ![favorito](https://user-images.githubusercontent.com/109104085/183504845-adc13395-c61a-46e2-8db0-5197cc28002d.gif)
 
 
 :alien: HELLO WORLD Welcome!
@@ -21,7 +21,7 @@ my goal is to specialize in cyber security
 :outbox_tray: 2022 Goals: create a new project and get most visibility in the Java Community.
 
 ### Skills ###
-[![COMPUTER](https://user-images.githubusercontent.com/109104085/183505008-47608ebe-f7d7-4cde-976b-f17c3384cbb3.gif)
+![COMPUTER](https://user-images.githubusercontent.com/109104085/183505008-47608ebe-f7d7-4cde-976b-f17c3384cbb3.gif)
 
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/download/help/java8.html)
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
