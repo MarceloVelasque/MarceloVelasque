@@ -1,4 +1,4 @@
-![favorito](https://user-images.githubusercontent.com/109104085/183504845-adc13395-c61a-46e2-8db0-5197cc28002d.gif)![gargantua](https://user-images.githubusercontent.com/109104085/183539154-b16d62b0-1e5d-47d9-a6a8-3a31dd191a8e.gif)
+![favorito](https://user-images.githubusercontent.com/109104085/183504845-adc13395-c61a-46e2-8db0-5197cc28002d.gif)
 
 :alien: HELLO WORLD Welcome!
 
