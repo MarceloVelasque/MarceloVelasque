@@ -19,6 +19,8 @@ my goal is to specialize in cyber security
 
 :outbox_tray: 2022 Goals: create a new project and get most visibility in the Java Community.
 
+![](https://komarev.com/ghpvc/?username=your-github-MarceloVelasque&label=PROFILE+VIEWS)
+
 ### Learning ###
 
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
