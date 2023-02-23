@@ -10,7 +10,7 @@
 
 :mortar_board: studying information technology
 
-:computer: I'm Back-End Developer!
+:computer: I'm Full-Stack Java Developer!
 my goal is to specialize in cyber security 
 
 :house_with_garden: I’m from Brazil.
