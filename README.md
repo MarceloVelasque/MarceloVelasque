@@ -8,16 +8,16 @@
 
 :mortar_board:graduated in technologist in management and entrepreneurship
 
-:mortar_board: studying information technology
+:mortar_board: studying Systems Analysis and Development(FIAP)
 
-:computer: I'm Full-Stack Java Developer!
-my goal is to specialize in cyber security 
+:computer: I'm a Full-Stack Java Developer!
+My goal is to specialize in the field of software development.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil (Joaçaba SC).
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2023 Goals: create a new project and get most visibility in the Java Community.
+:outbox_tray: Goals for 2024: Finish my project and launch my web system, create a new project and get more visibility in the Java Community. 
 
  Life Goal ![](https://aleen42.github.io/badges/src/lamborghini.svg)
 
