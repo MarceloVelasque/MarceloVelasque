@@ -23,10 +23,12 @@ My goal is to specialize in the field of software development.
 
 ![](https://komarev.com/ghpvc/?username=your-github-MarceloVelasque&label=PROFILE+VIEWS)
 
+### Operating System for Work ###
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### Learning ###
 
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -35,6 +37,7 @@ My goal is to specialize in the field of software development.
 
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
 
 ### Skills ###
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/download/help/java8.html)
