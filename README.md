@@ -62,7 +62,9 @@ My goal is to specialize in the field of software development.
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=marcelllo.velasque14k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=marcelllo.velasque14k">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=marcelllo.velasque14k" alt="Data Card for Spotify">
+</a>
 
 
 - Thanks for visiting.
