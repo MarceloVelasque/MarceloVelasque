@@ -75,3 +75,4 @@ My goal is to specialize in the field of software development.
 - Thanks for visiting.
 
 - Enjoy it!! o/
+<p><img src="https://github.com/MarceloVelasque/MarceloVelasque/raw/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></p>
