@@ -18,7 +18,7 @@ My goal is to specialize in the field of software development.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: Goals for 2024: Finish my project and launch my web system, create a new project and get more visibility in the Java Community. 
+:outbox_tray: Goals for 2025: Finish my project and launch my web system, create a new project and get more visibility in the Java Community. 
 
  Life Goal ![](https://aleen42.github.io/badges/src/lamborghini.svg)
 
